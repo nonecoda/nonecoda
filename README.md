@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @nonecoda
+- 👀 I’m interested in Music and Game.
+- 🌱 I’m currently learning Rust and Golang.
